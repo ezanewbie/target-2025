@@ -1,4 +1,5 @@
 target bulan juni
 -bisa html
 ^bisa dasar dari html
+^bisa lebih mengerti html
 -bisa css
